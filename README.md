@@ -1,1 +1,1 @@
-# Covid-19-Analyzer
+# Covid19-Analyzer
